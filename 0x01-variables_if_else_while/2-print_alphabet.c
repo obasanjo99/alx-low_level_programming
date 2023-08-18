@@ -1,10 +1,10 @@
 #include<stdio.h>
 /**
  * main - Entry point
- * description - write a program that prints the alphabet in lower case followed by new line 
+ * description - write a program that prints the alphabet inlowercase
  * Return: Always 0 (success)
  */
-int main()
+int main(void)
 {
 char alphabet;
 for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
